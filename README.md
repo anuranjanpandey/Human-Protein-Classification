@@ -4,7 +4,7 @@ This is my submission of Kaggle competition [Zero to GANs - Human Protein Classi
 
 ## Description
 
-<img src="https://user-images.githubusercontent.com/53137708/119226625-b9304880-bb27-11eb-8944-dbf40d35da48.png" width="300" height="300"/>  <img src="https://user-images.githubusercontent.com/53137708/119226629-bb92a280-bb27-11eb-9502-3e284f9bd7ce.png" width="300" height="300"/>  <img src="https://user-images.githubusercontent.com/53137708/119226633-bd5c6600-bb27-11eb-97bd-9e2e481cbc34.png" width="300" height="300"/>
+<img src="https://user-images.githubusercontent.com/53137708/119226625-b9304880-bb27-11eb-8944-dbf40d35da48.png" width="350" height="350"/>  <img src="https://user-images.githubusercontent.com/53137708/119226629-bb92a280-bb27-11eb-9502-3e284f9bd7ce.png" width="350" height="350"/>  
 
 In this competition, I have developed a model capable of classifying mixed patterns of proteins in microscope images. Images visualizing proteins in cells are commonly used for biomedical research, and these cells could hold the key for the next breakthrough in medicine. However, thanks to advances in high-throughput microscopy, these images are generated at a far greater pace than what can be manually evaluated. Therefore, the need is greater than ever for automating biomedical image analysis to accelerate the understanding of human cells and disease.
 
